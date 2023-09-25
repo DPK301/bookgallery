@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+}
+header{
+    background-color:  rgb(249, 176, 87);
+    width: 100%;
+    height: 50px;
+}
+header h3{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 13px;
+}
+footer{
+    background-color:  rgb(249, 176, 87);
+    width: 100%;
+    height: 90px;
+}
+ #footerdiv{
+    color: white;
+    text-align: center;
+ }
+ .row{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+
+ }
+ .col{ background-color: bisque;
+    width: 150px;
+    height: 280px;
+   margin-top: 5px;
+    padding: 10px;
+    text-align: center;
+ }
+ img{
+    width:130px;
+    height: 210px;
+ }
+ button{
+    position:relative;
+   
+    top:19px;
+    }
+    h5:hover{
+        color: blue;
+    }
+    .banner{ width: 100%;
+             height: 425px;
+             background-color: rgb(250, 206, 152);
+       
+     
+
+    }
+    #banner{
+        width: 100%;
+        height: 390px;
+        background-size: cover ;
+        position: absolute;
+       
+        top:110px ;
+       
+    }
+    .blogo{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+       left: 1200px;
+       top: 10px;
+    }
+    .logo{
+        width: 100%;
+        height: 40px;
+    }
+   
+    
+    
+    input{
+        position: relative;
+        top: 9px;
+        left: 30px;
+        border: 3px solid rgb(242, 138, 10);
+
+    }
+    .search{
+        width: 15px; height: 11px;
+        position: relative;
+        top: 2px;
+        left: 1px;
+    }
+    .bsearch{
+        position: relative;
+        left: 23px;
+        top: 9px;
+        background-color: bisque;
+        border: 3px solid rgb(242, 138, 10);
+    }
+    .writing{
+        width: 110px;
+        height: 280px;
+        margin: 5px;
+        padding: 10px;
+        text-align:left;
+    }
+    .flogo{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+       left: 1150px;
+       top: 55px;
+
+    }
+    .slogo{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+       left: 1200px;
+       top: 55px;
+
+    }
+    .banner{
+        width: 100%;
+        height: 410px;
+        background-color: bisque;
+        margin: 5px;
+    }
+    .banner img{
+        width: 1000px;
+        height: 390px;
+        position: absolute;
+        top: 111px;
+        left: 130px;
+    }
+    
